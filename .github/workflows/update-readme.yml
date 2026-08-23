@@ -24,7 +24,22 @@ jobs:
           python-version: "3.x"
 
       - name: Update README
-        run: python scripts/update_readme.py
+        run: |
+          python scripts/update_readme.py
+
+          echo "======================================"
+          echo "        README MARKER CHECK"
+          echo "======================================"
+
+          grep -n "STATS_START\|STATS_END\|PROBLEMS_START\|PROBLEMS_END" README.md || true
+
+          echo "======================================"
+          echo "        GIT CHANGE CHECK"
+          echo "======================================"
+
+          git status --short
+
+          echo "======================================"
 
       - name: Commit README changes
         run: |
