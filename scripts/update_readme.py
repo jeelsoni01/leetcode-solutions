@@ -8,19 +8,39 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 
 PROBLEM_PATTERN = re.compile(r"^(\d+)-(.+)$")
-DIFFICULTIES = {"Easy", "Medium", "Hard"}
+
+
+def get_difficulty(folder):
+    """Detect LeetCode difficulty from the problem README."""
+
+    problem_readme = folder / "README.md"
+
+    if not problem_readme.exists():
+        return "Unknown"
+
+    content = problem_readme.read_text(
+        encoding="utf-8",
+        errors="ignore"
+    )
+
+    # LeetCode problem pages contain one of these words.
+    for difficulty in ["Easy", "Medium", "Hard"]:
+        if re.search(
+            rf"(?<![A-Za-z]){difficulty}(?![A-Za-z])",
+            content,
+            re.IGNORECASE
+        ):
+            return difficulty
+
+    return "Unknown"
 
 
 def get_problems():
+    """Find all LeetSync problem folders."""
+
     problems = []
 
     for folder in ROOT.iterdir():
-
-        # Only process LeetSync problem folders.
-        # Examples:
-        # 31-next-permutation
-        # 73-set-matrix-zeroes
-        # 118-pascals-triangle
 
         if not folder.is_dir():
             continue
@@ -31,11 +51,11 @@ def get_problems():
             continue
 
         number = int(match.group(1))
-        title = match.group(2)
 
-        # Convert:
-        # next-permutation -> Next Permutation
-        title = title.replace("-", " ").replace("_", " ").title()
+        title = match.group(2)
+        title = title.replace("-", " ")
+        title = title.replace("_", " ")
+        title = title.title()
 
         difficulty = get_difficulty(folder)
 
@@ -46,38 +66,10 @@ def get_problems():
             "folder": folder.name
         })
 
-    return sorted(problems, key=lambda x: x["number"])
-
-
-def get_difficulty(folder):
-    """
-    Read the README inside each LeetSync folder
-    and detect Easy / Medium / Hard.
-    """
-
-    problem_readme = folder / "README.md"
-
-    if not problem_readme.exists():
-        return "Unknown"
-
-    try:
-        content = problem_readme.read_text(
-            encoding="utf-8",
-            errors="ignore"
-        )
-
-        for difficulty in DIFFICULTIES:
-            if re.search(
-                rf"\b{difficulty}\b",
-                content,
-                re.IGNORECASE
-            ):
-                return difficulty
-
-    except Exception:
-        pass
-
-    return "Unknown"
+    return sorted(
+        problems,
+        key=lambda problem: problem["number"]
+    )
 
 
 def difficulty_emoji(difficulty):
@@ -96,12 +88,12 @@ def generate_stats(problems):
         for problem in problems
     )
 
-    total = len(problems)
-
     easy = counts["Easy"]
     medium = counts["Medium"]
     hard = counts["Hard"]
     unknown = counts["Unknown"]
+
+    total = len(problems)
 
     return f"""### 🧩 Problems Solved
 
@@ -122,4 +114,3 @@ def generate_stats(problems):
 ⚪ Unknown    {unknown}
 
 🏆 TOTAL      {total}
-"""
