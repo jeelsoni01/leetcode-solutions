@@ -16,10 +16,12 @@ def get_problems():
 
     for folder in ROOT.iterdir():
 
-        # Only look at directories such as:
+        # Only process LeetSync problem folders.
+        # Examples:
         # 31-next-permutation
         # 73-set-matrix-zeroes
         # 118-pascals-triangle
+
         if not folder.is_dir():
             continue
 
@@ -33,7 +35,6 @@ def get_problems():
 
         # Convert:
         # next-permutation -> Next Permutation
-        # set-matrix-zeroes -> Set Matrix Zeroes
         title = title.replace("-", " ").replace("_", " ").title()
 
         difficulty = get_difficulty(folder)
@@ -50,8 +51,8 @@ def get_problems():
 
 def get_difficulty(folder):
     """
-    LeetSync normally stores the problem statement in README.md.
-    We inspect it to determine Easy / Medium / Hard.
+    Read the README inside each LeetSync folder
+    and detect Easy / Medium / Hard.
     """
 
     problem_readme = folder / "README.md"
@@ -65,12 +66,12 @@ def get_difficulty(folder):
             errors="ignore"
         )
 
-        # Look for LeetCode difficulty
         for difficulty in DIFFICULTIES:
-
-            pattern = rf"\b{difficulty}\b"
-
-            if re.search(pattern, content, re.IGNORECASE):
+            if re.search(
+                rf"\b{difficulty}\b",
+                content,
+                re.IGNORECASE
+            ):
                 return difficulty
 
     except Exception:
