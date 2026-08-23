@@ -122,3 +122,4 @@ def generate_stats(problems):
 ⚪ Unknown    {unknown}
 
 🏆 TOTAL      {total}
+"""
