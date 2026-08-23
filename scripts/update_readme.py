@@ -7,34 +7,23 @@ import re
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 
-
-DIFFICULTIES = ["Easy", "Medium", "Hard"]
+PROBLEM_PATTERN = re.compile(r"^(\d+)-(.+)$")
+DIFFICULTIES = {"Easy", "Medium", "Hard"}
 
 
 def get_problems():
     problems = []
 
-    for path in ROOT.rglob("*"):
-        if not path.is_file():
+    for folder in ROOT.iterdir():
+
+        # Only look at directories such as:
+        # 31-next-permutation
+        # 73-set-matrix-zeroes
+        # 118-pascals-triangle
+        if not folder.is_dir():
             continue
 
-        if ".git" in path.parts:
-            continue
-
-        if path.suffix not in {".py", ".cpp", ".java", ".js", ".ts"}:
-            continue
-
-        parts = path.relative_to(ROOT).parts
-
-        difficulty = next(
-            (x for x in parts if x in DIFFICULTIES),
-            None
-        )
-
-        if difficulty is None:
-            continue
-
-        match = re.match(r"(\d+)[-_](.+)", path.stem)
+        match = PROBLEM_PATTERN.match(folder.name)
 
         if not match:
             continue
@@ -42,42 +31,93 @@ def get_problems():
         number = int(match.group(1))
         title = match.group(2)
 
-        title = title.replace("-", " ")
-        title = title.replace("_", " ")
-        title = title.title()
+        # Convert:
+        # next-permutation -> Next Permutation
+        # set-matrix-zeroes -> Set Matrix Zeroes
+        title = title.replace("-", " ").replace("_", " ").title()
+
+        difficulty = get_difficulty(folder)
 
         problems.append({
             "number": number,
             "title": title,
             "difficulty": difficulty,
-            "path": path.relative_to(ROOT).as_posix()
+            "folder": folder.name
         })
 
     return sorted(problems, key=lambda x: x["number"])
 
 
+def get_difficulty(folder):
+    """
+    LeetSync normally stores the problem statement in README.md.
+    We inspect it to determine Easy / Medium / Hard.
+    """
+
+    problem_readme = folder / "README.md"
+
+    if not problem_readme.exists():
+        return "Unknown"
+
+    try:
+        content = problem_readme.read_text(
+            encoding="utf-8",
+            errors="ignore"
+        )
+
+        # Look for LeetCode difficulty
+        for difficulty in DIFFICULTIES:
+
+            pattern = rf"\b{difficulty}\b"
+
+            if re.search(pattern, content, re.IGNORECASE):
+                return difficulty
+
+    except Exception:
+        pass
+
+    return "Unknown"
+
+
+def difficulty_emoji(difficulty):
+    return {
+        "Easy": "🟢",
+        "Medium": "🟡",
+        "Hard": "🔴",
+        "Unknown": "⚪"
+    }.get(difficulty, "⚪")
+
+
 def generate_stats(problems):
-    counts = Counter(p["difficulty"] for p in problems)
+
+    counts = Counter(
+        problem["difficulty"]
+        for problem in problems
+    )
 
     total = len(problems)
 
     easy = counts["Easy"]
     medium = counts["Medium"]
     hard = counts["Hard"]
+    unknown = counts["Unknown"]
 
-    return f"""
-## 📊 LeetCode Progress
+    return f"""### 🧩 Problems Solved
 
-| Metric | Count |
-|---|---:|
-| 🧩 **Total Solved** | **{total}** |
+| Difficulty | Problems |
+|:---:|---:|
 | 🟢 Easy | **{easy}** |
 | 🟡 Medium | **{medium}** |
 | 🔴 Hard | **{hard}** |
+| ⚪ Unknown | **{unknown}** |
+| **🏆 Total** | **{total}** |
 
-### 📈 Difficulty Distribution
+### 📈 Progress
 
 ```text
-🟢 Easy    {easy}
-🟡 Medium  {medium}
-🔴 Hard    {hard}
+🟢 Easy       {easy}
+🟡 Medium     {medium}
+🔴 Hard       {hard}
+⚪ Unknown    {unknown}
+
+🏆 TOTAL      {total}
