@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **1** |
-| 🟡 Medium | **3** |
+| 🟡 Medium | **4** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **4** |
+| **🏆 Total** | **5** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       1
-🟡 Medium     3
+🟡 Medium     4
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      4
+🏆 TOTAL      5
 ```
 
 <!-- STATS_END -->
@@ -132,6 +132,7 @@ I want to recognize **patterns**.
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
+| 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 
 <!-- PROBLEMS_END -->
