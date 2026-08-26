@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **1** |
+| 🟢 Easy | **2** |
 | 🟡 Medium | **4** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **5** |
+| **🏆 Total** | **6** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       1
+🟢 Easy       2
 🟡 Medium     4
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      5
+🏆 TOTAL      6
 ```
 
 <!-- STATS_END -->
@@ -134,6 +134,7 @@ I want to recognize **patterns**.
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
 | 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
+| 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 
 <!-- PROBLEMS_END -->
 
