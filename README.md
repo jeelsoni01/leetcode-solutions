@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **2** |
-| 🟡 Medium | **4** |
+| 🟡 Medium | **5** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **6** |
+| **🏆 Total** | **7** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       2
-🟡 Medium     4
+🟡 Medium     5
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      6
+🏆 TOTAL      7
 ```
 
 <!-- STATS_END -->
@@ -130,6 +130,7 @@ I want to recognize **patterns**.
 | # | Title | Solution | Difficulty |
 | :---: | :--- | :--- | :--- |
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
+| 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
 | 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
