@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **3** |
+| 🟢 Easy | **4** |
 | 🟡 Medium | **6** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **9** |
+| **🏆 Total** | **10** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       3
+🟢 Easy       4
 🟡 Medium     6
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      9
+🏆 TOTAL      10
 ```
 
 <!-- STATS_END -->
@@ -133,9 +133,10 @@ I want to recognize **patterns**.
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
 | 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
-| 56 | [Merge Intervals](./56-merge-intervals) | [C++](./56-merge-intervals/merge-intervals.cpp), [Notes.md](./56-merge-intervals/Notes.md) | 🟡 Medium |
+| 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
 | 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
+| 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 
