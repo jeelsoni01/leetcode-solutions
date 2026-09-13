@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **4** |
-| 🟡 Medium | **6** |
+| 🟡 Medium | **7** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **10** |
+| **🏆 Total** | **11** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       4
-🟡 Medium     6
+🟡 Medium     7
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      10
+🏆 TOTAL      11
 ```
 
 <!-- STATS_END -->
@@ -139,6 +139,7 @@ I want to recognize **patterns**.
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
+| 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 
 <!-- PROBLEMS_END -->
 
