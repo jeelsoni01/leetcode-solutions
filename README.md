@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **4** |
-| 🟡 Medium | **8** |
+| 🟡 Medium | **9** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **12** |
+| **🏆 Total** | **13** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       4
-🟡 Medium     8
+🟡 Medium     9
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      12
+🏆 TOTAL      13
 ```
 
 <!-- STATS_END -->
@@ -132,6 +132,7 @@ I want to recognize **patterns**.
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | [C++](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | 🟢 Easy |
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
 | 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
+| 50 | [Powx N](./50-powx-n) | [Python](./50-powx-n/powx-n.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
