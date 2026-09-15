@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **4** |
+| 🟢 Easy | **5** |
 | 🟡 Medium | **9** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **13** |
+| **🏆 Total** | **14** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       4
+🟢 Easy       5
 🟡 Medium     9
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      13
+🏆 TOTAL      14
 ```
 
 <!-- STATS_END -->
@@ -141,6 +141,7 @@ I want to recognize **patterns**.
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
+| 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 
 <!-- PROBLEMS_END -->
