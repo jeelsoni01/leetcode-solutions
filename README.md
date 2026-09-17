@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **5** |
+| 🟢 Easy | **6** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **17** |
+| **🏆 Total** | **18** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       5
+🟢 Easy       6
 🟡 Medium     11
 🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      17
+🏆 TOTAL      18
 ```
 
 <!-- STATS_END -->
@@ -129,6 +129,7 @@ I want to recognize **patterns**.
 
 | # | Title | Solution | Difficulty |
 | :---: | :--- | :--- | :--- |
+| 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | [C++](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | 🟢 Easy |
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
 | 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
