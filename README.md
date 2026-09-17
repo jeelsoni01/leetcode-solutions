@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **6** |
+| 🟢 Easy | **7** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **18** |
+| **🏆 Total** | **19** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       6
+🟢 Easy       7
 🟡 Medium     11
 🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      18
+🏆 TOTAL      19
 ```
 
 <!-- STATS_END -->
@@ -144,6 +144,7 @@ I want to recognize **patterns**.
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
+| 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
