@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **7** |
+| 🟢 Easy | **8** |
 | 🟡 Medium | **11** |
 | 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **19** |
+| **🏆 Total** | **20** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       7
+🟢 Easy       8
 🟡 Medium     11
 🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      19
+🏆 TOTAL      20
 ```
 
 <!-- STATS_END -->
@@ -148,6 +148,7 @@ I want to recognize **patterns**.
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
+| 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 
 <!-- PROBLEMS_END -->
 
