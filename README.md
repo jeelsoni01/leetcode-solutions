@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **5** |
-| 🟡 Medium | **10** |
+| 🟡 Medium | **11** |
 | 🔴 Hard | **0** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **15** |
+| **🏆 Total** | **16** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       5
-🟡 Medium     10
+🟡 Medium     11
 🔴 Hard       0
 ⚪ Unknown    0
 
-🏆 TOTAL      15
+🏆 TOTAL      16
 ```
 
 <!-- STATS_END -->
@@ -135,6 +135,7 @@ I want to recognize **patterns**.
 | 50 | [Powx N](./50-powx-n) | [Python](./50-powx-n/powx-n.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
+| 62 | [Unique Paths](./62-unique-paths) | [Python](./62-unique-paths/unique-paths.py) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
 | 74 | [Search A 2D Matrix](./74-search-a-2d-matrix) | [Python](./74-search-a-2d-matrix/search-a-2d-matrix.py) | 🟡 Medium |
 | 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
