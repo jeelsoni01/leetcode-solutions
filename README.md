@@ -50,19 +50,19 @@ This isn't just a collection of answers.
 |:---:|---:|
 | 🟢 Easy | **5** |
 | 🟡 Medium | **11** |
-| 🔴 Hard | **0** |
+| 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **16** |
+| **🏆 Total** | **17** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       5
 🟡 Medium     11
-🔴 Hard       0
+🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      16
+🏆 TOTAL      17
 ```
 
 <!-- STATS_END -->
@@ -145,6 +145,7 @@ I want to recognize **patterns**.
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
+| 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 
 <!-- PROBLEMS_END -->
 
