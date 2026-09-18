@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **8** |
-| 🟡 Medium | **11** |
+| 🟡 Medium | **12** |
 | 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **20** |
+| **🏆 Total** | **21** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       8
-🟡 Medium     11
+🟡 Medium     12
 🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      20
+🏆 TOTAL      21
 ```
 
 <!-- STATS_END -->
@@ -129,6 +129,7 @@ I want to recognize **patterns**.
 
 | # | Title | Solution | Difficulty |
 | :---: | :--- | :--- | :--- |
+| 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | 🟡 Medium |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | [C++](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | 🟢 Easy |
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
