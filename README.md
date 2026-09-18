@@ -50,19 +50,19 @@ This isn't just a collection of answers.
 |:---:|---:|
 | 🟢 Easy | **8** |
 | 🟡 Medium | **14** |
-| 🔴 Hard | **1** |
+| 🔴 Hard | **2** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **23** |
+| **🏆 Total** | **24** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       8
 🟡 Medium     14
-🔴 Hard       1
+🔴 Hard       2
 ⚪ Unknown    0
 
-🏆 TOTAL      23
+🏆 TOTAL      24
 ```
 
 <!-- STATS_END -->
@@ -132,6 +132,7 @@ I want to recognize **patterns**.
 | 2 | [Add Two Numbers](./2-add-two-numbers) | [Python](./2-add-two-numbers/add-two-numbers.py) | 🟡 Medium |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | 🟡 Medium |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
+| 25 | [Reverse Nodes In K Group](./25-reverse-nodes-in-k-group) | [Python](./25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py) | 🔴 Hard |
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | [C++](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | 🟢 Easy |
 | 31 | [Next Permutation](./31-next-permutation) | [Python](./31-next-permutation/next-permutation.py) | 🟡 Medium |
 | 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
