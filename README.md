@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **8** |
-| 🟡 Medium | **13** |
+| 🟡 Medium | **14** |
 | 🔴 Hard | **1** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **22** |
+| **🏆 Total** | **23** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       8
-🟡 Medium     13
+🟡 Medium     14
 🔴 Hard       1
 ⚪ Unknown    0
 
-🏆 TOTAL      22
+🏆 TOTAL      23
 ```
 
 <!-- STATS_END -->
@@ -148,6 +148,7 @@ I want to recognize **patterns**.
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
+| 237 | [Delete Node In A Linked List](./237-delete-node-in-a-linked-list) | [Python](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
