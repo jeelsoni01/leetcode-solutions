@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **9** |
+| 🟢 Easy | **10** |
 | 🟡 Medium | **14** |
 | 🔴 Hard | **2** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **25** |
+| **🏆 Total** | **26** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       9
+🟢 Easy       10
 🟡 Medium     14
 🔴 Hard       2
 ⚪ Unknown    0
 
-🏆 TOTAL      25
+🏆 TOTAL      26
 ```
 
 <!-- STATS_END -->
@@ -147,6 +147,7 @@ I want to recognize **patterns**.
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 | 141 | [Linked List Cycle](./141-linked-list-cycle) | [Python](./141-linked-list-cycle/linked-list-cycle.py) | 🟢 Easy |
+| 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists) | [Python](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | 🟢 Easy |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
