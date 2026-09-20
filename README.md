@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **10** |
-| 🟡 Medium | **16** |
+| 🟡 Medium | **17** |
 | 🔴 Hard | **2** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **28** |
+| **🏆 Total** | **29** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       10
-🟡 Medium     16
+🟡 Medium     17
 🔴 Hard       2
 ⚪ Unknown    0
 
-🏆 TOTAL      28
+🏆 TOTAL      29
 ```
 
 <!-- STATS_END -->
@@ -147,6 +147,7 @@ I want to recognize **patterns**.
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
+| 138 | [Copy List With Random Pointer](./138-copy-list-with-random-pointer) | [Python](./138-copy-list-with-random-pointer/copy-list-with-random-pointer.py) | 🟡 Medium |
 | 141 | [Linked List Cycle](./141-linked-list-cycle) | [Python](./141-linked-list-cycle/linked-list-cycle.py) | 🟢 Easy |
 | 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists) | [Python](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | 🟢 Easy |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
