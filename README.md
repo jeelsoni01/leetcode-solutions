@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **10** |
+| 🟢 Easy | **11** |
 | 🟡 Medium | **17** |
 | 🔴 Hard | **2** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **29** |
+| **🏆 Total** | **30** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       10
+🟢 Easy       11
 🟡 Medium     17
 🔴 Hard       2
 ⚪ Unknown    0
 
-🏆 TOTAL      29
+🏆 TOTAL      30
 ```
 
 <!-- STATS_END -->
@@ -129,6 +129,7 @@ I want to recognize **patterns**.
 
 | # | Title | Solution | Difficulty |
 | :---: | :--- | :--- | :--- |
+| 1 | [Two Sum](./1-two-sum) | [Python](./1-two-sum/two-sum.py) | 🟢 Easy |
 | 2 | [Add Two Numbers](./2-add-two-numbers) | [Python](./2-add-two-numbers/add-two-numbers.py) | 🟡 Medium |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | 🟡 Medium |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
