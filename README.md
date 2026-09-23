@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **19** |
+| 🟡 Medium | **20** |
 | 🔴 Hard | **3** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **33** |
+| **🏆 Total** | **34** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     19
+🟡 Medium     20
 🔴 Hard       3
 ⚪ Unknown    0
 
-🏆 TOTAL      33
+🏆 TOTAL      34
 ```
 
 <!-- STATS_END -->
@@ -161,6 +161,7 @@ I want to recognize **patterns**.
 | 322 | [Coin Change](./322-coin-change) | [Python](./322-coin-change/coin-change.py) | 🟡 Medium |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
+| 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
 | 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | [Python](./1538-maximum-points-you-can-obtain-from-cards/maximum-points-you-can-obtain-from-cards.py) | 🟡 Medium |
 
 <!-- PROBLEMS_END -->
