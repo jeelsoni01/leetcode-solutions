@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **24** |
+| 🟡 Medium | **25** |
 | 🔴 Hard | **4** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **39** |
+| **🏆 Total** | **40** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     24
+🟡 Medium     25
 🔴 Hard       4
 ⚪ Unknown    0
 
-🏆 TOTAL      39
+🏆 TOTAL      40
 ```
 
 <!-- STATS_END -->
@@ -148,6 +148,7 @@ I want to recognize **patterns**.
 | 75 | [Sort Colors](./75-sort-colors) | [Python](./75-sort-colors/sort-colors.py) | 🟡 Medium |
 | 76 | [Minimum Window Substring](./76-minimum-window-substring) | [Python](./76-minimum-window-substring/minimum-window-substring.py) | 🔴 Hard |
 | 78 | [Subsets](./78-subsets) | [Python](./78-subsets/subsets.py) | 🟡 Medium |
+| 81 | [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii) | [Python](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.py) | 🟡 Medium |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
