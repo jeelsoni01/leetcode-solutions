@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **26** |
+| 🟡 Medium | **27** |
 | 🔴 Hard | **4** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **41** |
+| **🏆 Total** | **42** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     26
+🟡 Medium     27
 🔴 Hard       4
 ⚪ Unknown    0
 
-🏆 TOTAL      41
+🏆 TOTAL      42
 ```
 
 <!-- STATS_END -->
@@ -161,6 +161,7 @@ I want to recognize **patterns**.
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 237 | [Delete Node In A Linked List](./237-delete-node-in-a-linked-list) | [Python](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | 🟡 Medium |
+| 240 | [Search A 2D Matrix Ii](./240-search-a-2d-matrix-ii) | [Python](./240-search-a-2d-matrix-ii/search-a-2d-matrix-ii.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
 | 297 | [Serialize And Deserialize Binary Tree](./297-serialize-and-deserialize-binary-tree) | [Python](./297-serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py) | 🔴 Hard |
 | 322 | [Coin Change](./322-coin-change) | [Python](./322-coin-change/coin-change.py) | 🟡 Medium |
