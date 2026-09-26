@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **23** |
+| 🟡 Medium | **24** |
 | 🔴 Hard | **4** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **38** |
+| **🏆 Total** | **39** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     23
+🟡 Medium     24
 🔴 Hard       4
 ⚪ Unknown    0
 
-🏆 TOTAL      38
+🏆 TOTAL      39
 ```
 
 <!-- STATS_END -->
@@ -153,6 +153,7 @@ I want to recognize **patterns**.
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 | 138 | [Copy List With Random Pointer](./138-copy-list-with-random-pointer) | [Python](./138-copy-list-with-random-pointer/copy-list-with-random-pointer.py) | 🟡 Medium |
 | 141 | [Linked List Cycle](./141-linked-list-cycle) | [Python](./141-linked-list-cycle/linked-list-cycle.py) | 🟢 Easy |
+| 153 | [Find Minimum In Rotated Sorted Array](./153-find-minimum-in-rotated-sorted-array) | [Python](./153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py) | 🟡 Medium |
 | 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists) | [Python](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | 🟢 Easy |
 | 162 | [Find Peak Element](./162-find-peak-element) | [Python](./162-find-peak-element/find-peak-element.py) | 🟡 Medium |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
