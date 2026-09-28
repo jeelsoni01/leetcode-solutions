@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **29** |
+| 🟡 Medium | **30** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **45** |
+| **🏆 Total** | **46** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     29
+🟡 Medium     30
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      45
+🏆 TOTAL      46
 ```
 
 <!-- STATS_END -->
@@ -143,6 +143,7 @@ I want to recognize **patterns**.
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 55 | [Jump Game](./55-jump-game) | [Python](./55-jump-game/jump-game.py) | 🟡 Medium |
 | 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
+| 57 | [Insert Interval](./57-insert-interval) | [Python](./57-insert-interval/insert-interval.py) | 🟡 Medium |
 | 61 | [Rotate List](./61-rotate-list) | [Python](./61-rotate-list/rotate-list.py) | 🟡 Medium |
 | 62 | [Unique Paths](./62-unique-paths) | [Python](./62-unique-paths/unique-paths.py) | 🟡 Medium |
 | 73 | [Set Matrix Zeroes](./73-set-matrix-zeroes) | [Python](./73-set-matrix-zeroes/set-matrix-zeroes.py) | 🟡 Medium |
