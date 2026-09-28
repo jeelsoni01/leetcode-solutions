@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **30** |
+| 🟡 Medium | **31** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **46** |
+| **🏆 Total** | **47** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     30
+🟡 Medium     31
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      46
+🏆 TOTAL      47
 ```
 
 <!-- STATS_END -->
@@ -169,6 +169,7 @@ I want to recognize **patterns**.
 | 297 | [Serialize And Deserialize Binary Tree](./297-serialize-and-deserialize-binary-tree) | [Python](./297-serialize-and-deserialize-binary-tree/serialize-and-deserialize-binary-tree.py) | 🔴 Hard |
 | 322 | [Coin Change](./322-coin-change) | [Python](./322-coin-change/coin-change.py) | 🟡 Medium |
 | 424 | [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement) | [Python](./424-longest-repeating-character-replacement/longest-repeating-character-replacement.py) | 🟡 Medium |
+| 435 | [Non Overlapping Intervals](./435-non-overlapping-intervals) | [Python](./435-non-overlapping-intervals/non-overlapping-intervals.py) | 🟡 Medium |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
