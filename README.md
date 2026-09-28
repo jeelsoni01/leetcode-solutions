@@ -50,19 +50,19 @@ This isn't just a collection of answers.
 |:---:|---:|
 | 🟢 Easy | **11** |
 | 🟡 Medium | **28** |
-| 🔴 Hard | **4** |
+| 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **43** |
+| **🏆 Total** | **44** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
 🟡 Medium     28
-🔴 Hard       4
+🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      43
+🏆 TOTAL      44
 ```
 
 <!-- STATS_END -->
@@ -132,6 +132,7 @@ I want to recognize **patterns**.
 | 1 | [Two Sum](./1-two-sum) | [Python](./1-two-sum/two-sum.py) | 🟢 Easy |
 | 2 | [Add Two Numbers](./2-add-two-numbers) | [Python](./2-add-two-numbers/add-two-numbers.py) | 🟡 Medium |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) | [Python](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) | 🟡 Medium |
+| 4 | [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | [Python](./4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) | 🔴 Hard |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | 🟡 Medium |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
 | 25 | [Reverse Nodes In K Group](./25-reverse-nodes-in-k-group) | [Python](./25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py) | 🔴 Hard |
