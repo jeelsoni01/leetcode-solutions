@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **28** |
+| 🟡 Medium | **29** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **44** |
+| **🏆 Total** | **45** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     28
+🟡 Medium     29
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      44
+🏆 TOTAL      45
 ```
 
 <!-- STATS_END -->
@@ -141,6 +141,7 @@ I want to recognize **patterns**.
 | 48 | [Rotate Image](./48-rotate-image) | [Python](./48-rotate-image/rotate-image.py) | 🟡 Medium |
 | 50 | [Powx N](./50-powx-n) | [Python](./50-powx-n/powx-n.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
+| 55 | [Jump Game](./55-jump-game) | [Python](./55-jump-game/jump-game.py) | 🟡 Medium |
 | 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
 | 61 | [Rotate List](./61-rotate-list) | [Python](./61-rotate-list/rotate-list.py) | 🟡 Medium |
 | 62 | [Unique Paths](./62-unique-paths) | [Python](./62-unique-paths/unique-paths.py) | 🟡 Medium |
