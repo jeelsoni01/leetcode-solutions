@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **11** |
-| 🟡 Medium | **33** |
+| 🟡 Medium | **34** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **49** |
+| **🏆 Total** | **50** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       11
-🟡 Medium     33
+🟡 Medium     34
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      49
+🏆 TOTAL      50
 ```
 
 <!-- STATS_END -->
@@ -162,6 +162,7 @@ I want to recognize **patterns**.
 | 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists) | [Python](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.py) | 🟢 Easy |
 | 162 | [Find Peak Element](./162-find-peak-element) | [Python](./162-find-peak-element/find-peak-element.py) | 🟡 Medium |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
+| 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view) | [Python](./199-binary-tree-right-side-view/binary-tree-right-side-view.py) | 🟡 Medium |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 237 | [Delete Node In A Linked List](./237-delete-node-in-a-linked-list) | [Python](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | 🟡 Medium |
