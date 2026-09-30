@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **12** |
+| 🟢 Easy | **13** |
 | 🟡 Medium | **35** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **52** |
+| **🏆 Total** | **53** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       12
+🟢 Easy       13
 🟡 Medium     35
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      52
+🏆 TOTAL      53
 ```
 
 <!-- STATS_END -->
@@ -153,6 +153,7 @@ I want to recognize **patterns**.
 | 78 | [Subsets](./78-subsets) | [Python](./78-subsets/subsets.py) | 🟡 Medium |
 | 81 | [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii) | [Python](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.py) | 🟡 Medium |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
+| 94 | [Binary Tree Inorder Traversal](./94-binary-tree-inorder-traversal) | [Python](./94-binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) | 🟢 Easy |
 | 102 | [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal) | [Python](./102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) | 🟡 Medium |
 | 105 | [Construct Binary Tree From Preorder And Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) | [Python](./105-construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.py) | 🟡 Medium |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
