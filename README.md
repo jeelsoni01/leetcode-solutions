@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **12** |
-| 🟡 Medium | **34** |
+| 🟡 Medium | **35** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **51** |
+| **🏆 Total** | **52** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       12
-🟡 Medium     34
+🟡 Medium     35
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      51
+🏆 TOTAL      52
 ```
 
 <!-- STATS_END -->
@@ -154,6 +154,7 @@ I want to recognize **patterns**.
 | 81 | [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii) | [Python](./81-search-in-rotated-sorted-array-ii/search-in-rotated-sorted-array-ii.py) | 🟡 Medium |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array) | [Python](./88-merge-sorted-array/merge-sorted-array.py) | 🟢 Easy |
 | 102 | [Binary Tree Level Order Traversal](./102-binary-tree-level-order-traversal) | [Python](./102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.py) | 🟡 Medium |
+| 105 | [Construct Binary Tree From Preorder And Inorder Traversal](./105-construct-binary-tree-from-preorder-and-inorder-traversal) | [Python](./105-construct-binary-tree-from-preorder-and-inorder-traversal/construct-binary-tree-from-preorder-and-inorder-traversal.py) | 🟡 Medium |
 | 118 | [Pascals Triangle](./118-pascals-triangle) | [Python](./118-pascals-triangle/pascals-triangle.py) | 🟢 Easy |
 | 121 | [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock) | [Python](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) | 🟢 Easy |
 | 138 | [Copy List With Random Pointer](./138-copy-list-with-random-pointer) | [Python](./138-copy-list-with-random-pointer/copy-list-with-random-pointer.py) | 🟡 Medium |
