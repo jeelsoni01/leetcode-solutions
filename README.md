@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **13** |
-| 🟡 Medium | **36** |
+| 🟡 Medium | **37** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **54** |
+| **🏆 Total** | **55** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       13
-🟡 Medium     36
+🟡 Medium     37
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      54
+🏆 TOTAL      55
 ```
 
 <!-- STATS_END -->
@@ -167,6 +167,7 @@ I want to recognize **patterns**.
 | 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view) | [Python](./199-binary-tree-right-side-view/binary-tree-right-side-view.py) | 🟡 Medium |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
+| 235 | [Lowest Common Ancestor Of A Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree) | [Python](./235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) | 🟡 Medium |
 | 237 | [Delete Node In A Linked List](./237-delete-node-in-a-linked-list) | [Python](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | 🟡 Medium |
 | 240 | [Search A 2D Matrix Ii](./240-search-a-2d-matrix-ii) | [Python](./240-search-a-2d-matrix-ii/search-a-2d-matrix-ii.py) | 🟡 Medium |
 | 287 | [Find The Duplicate Number](./287-find-the-duplicate-number) | [Python](./287-find-the-duplicate-number/find-the-duplicate-number.py) | 🟡 Medium |
