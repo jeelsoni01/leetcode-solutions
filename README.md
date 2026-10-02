@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **13** |
-| 🟡 Medium | **35** |
+| 🟡 Medium | **36** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **53** |
+| **🏆 Total** | **54** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       13
-🟡 Medium     35
+🟡 Medium     36
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      53
+🏆 TOTAL      54
 ```
 
 <!-- STATS_END -->
@@ -177,6 +177,7 @@ I want to recognize **patterns**.
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 543 | [Diameter Of Binary Tree](./543-diameter-of-binary-tree) | [Python](./543-diameter-of-binary-tree/diameter-of-binary-tree.py) | 🟢 Easy |
+| 784 | [Insert Into A Binary Search Tree](./784-insert-into-a-binary-search-tree) | [Python](./784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) | 🟡 Medium |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
 | 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | [Python](./1538-maximum-points-you-can-obtain-from-cards/maximum-points-you-can-obtain-from-cards.py) | 🟡 Medium |
