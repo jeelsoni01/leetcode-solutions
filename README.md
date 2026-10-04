@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **15** |
-| 🟡 Medium | **37** |
+| 🟡 Medium | **38** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **57** |
+| **🏆 Total** | **58** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       15
-🟡 Medium     37
+🟡 Medium     38
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      57
+🏆 TOTAL      58
 ```
 
 <!-- STATS_END -->
@@ -179,6 +179,7 @@ I want to recognize **patterns**.
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 543 | [Diameter Of Binary Tree](./543-diameter-of-binary-tree) | [Python](./543-diameter-of-binary-tree/diameter-of-binary-tree.py) | 🟢 Easy |
+| 678 | [Valid Parenthesis String](./678-valid-parenthesis-string) | [Python](./678-valid-parenthesis-string/valid-parenthesis-string.py) | 🟡 Medium |
 | 784 | [Insert Into A Binary Search Tree](./784-insert-into-a-binary-search-tree) | [Python](./784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) | 🟡 Medium |
 | 890 | [Lemonade Change](./890-lemonade-change) | [Python](./890-lemonade-change/lemonade-change.py) | 🟢 Easy |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
