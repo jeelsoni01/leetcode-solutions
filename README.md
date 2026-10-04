@@ -142,7 +142,7 @@ I want to recognize **patterns**.
 | 50 | [Powx N](./50-powx-n) | [Python](./50-powx-n/powx-n.py) | 🟡 Medium |
 | 53 | [Maximum Subarray](./53-maximum-subarray) | [Python](./53-maximum-subarray/maximum-subarray.py) | 🟡 Medium |
 | 55 | [Jump Game](./55-jump-game) | [Python](./55-jump-game/jump-game.py) | 🟡 Medium |
-| 56 | [Merge Intervals](./56-merge-intervals) | [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
+| 56 | [Merge Intervals](./56-merge-intervals) | [Python](./56-merge-intervals/merge-intervals.py), [Notes.md](./56-merge-intervals/Notes.md), [C++](./56-merge-intervals/merge-intervals.cpp) | 🟡 Medium |
 | 57 | [Insert Interval](./57-insert-interval) | [Python](./57-insert-interval/insert-interval.py) | 🟡 Medium |
 | 61 | [Rotate List](./61-rotate-list) | [Python](./61-rotate-list/rotate-list.py) | 🟡 Medium |
 | 62 | [Unique Paths](./62-unique-paths) | [Python](./62-unique-paths/unique-paths.py) | 🟡 Medium |
