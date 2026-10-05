@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **15** |
-| 🟡 Medium | **38** |
+| 🟡 Medium | **39** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **58** |
+| **🏆 Total** | **59** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       15
-🟡 Medium     38
+🟡 Medium     39
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      58
+🏆 TOTAL      59
 ```
 
 <!-- STATS_END -->
@@ -179,6 +179,7 @@ I want to recognize **patterns**.
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 543 | [Diameter Of Binary Tree](./543-diameter-of-binary-tree) | [Python](./543-diameter-of-binary-tree/diameter-of-binary-tree.py) | 🟢 Easy |
+| 547 | [Number Of Provinces](./547-number-of-provinces) | [Python](./547-number-of-provinces/number-of-provinces.py) | 🟡 Medium |
 | 678 | [Valid Parenthesis String](./678-valid-parenthesis-string) | [Python](./678-valid-parenthesis-string/valid-parenthesis-string.py) | 🟡 Medium |
 | 784 | [Insert Into A Binary Search Tree](./784-insert-into-a-binary-search-tree) | [Python](./784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) | 🟡 Medium |
 | 890 | [Lemonade Change](./890-lemonade-change) | [Python](./890-lemonade-change/lemonade-change.py) | 🟢 Easy |
