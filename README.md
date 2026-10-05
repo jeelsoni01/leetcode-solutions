@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **15** |
-| 🟡 Medium | **39** |
+| 🟡 Medium | **40** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **59** |
+| **🏆 Total** | **60** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       15
-🟡 Medium     39
+🟡 Medium     40
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      59
+🏆 TOTAL      60
 ```
 
 <!-- STATS_END -->
@@ -165,6 +165,7 @@ I want to recognize **patterns**.
 | 162 | [Find Peak Element](./162-find-peak-element) | [Python](./162-find-peak-element/find-peak-element.py) | 🟡 Medium |
 | 169 | [Majority Element](./169-majority-element) | [Python](./169-majority-element/majority-element.py) | 🟢 Easy |
 | 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view) | [Python](./199-binary-tree-right-side-view/binary-tree-right-side-view.py) | 🟡 Medium |
+| 200 | [Number Of Islands](./200-number-of-islands) | [Python](./200-number-of-islands/number-of-islands.py) | 🟡 Medium |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree) | [Python](./235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) | 🟡 Medium |
