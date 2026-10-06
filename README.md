@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **16** |
-| 🟡 Medium | **42** |
+| 🟡 Medium | **43** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **63** |
+| **🏆 Total** | **64** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       16
-🟡 Medium     42
+🟡 Medium     43
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      63
+🏆 TOTAL      64
 ```
 
 <!-- STATS_END -->
@@ -188,6 +188,7 @@ I want to recognize **patterns**.
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 | 966 | [Binary Subarrays With Sum](./966-binary-subarrays-with-sum) | [Python](./966-binary-subarrays-with-sum/binary-subarrays-with-sum.py) | 🟡 Medium |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
+| 1073 | [Number Of Enclaves](./1073-number-of-enclaves) | [Python](./1073-number-of-enclaves/number-of-enclaves.py) | 🟡 Medium |
 | 1460 | [Number Of Substrings Containing All Three Characters](./1460-number-of-substrings-containing-all-three-characters) | [Python](./1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) | 🟡 Medium |
 | 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | [Python](./1538-maximum-points-you-can-obtain-from-cards/maximum-points-you-can-obtain-from-cards.py) | 🟡 Medium |
 | 2047 | [Find A Peak Element Ii](./2047-find-a-peak-element-ii) | [Python](./2047-find-a-peak-element-ii/find-a-peak-element-ii.py) | 🟡 Medium |
