@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **15** |
-| 🟡 Medium | **40** |
+| 🟡 Medium | **41** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **60** |
+| **🏆 Total** | **61** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       15
-🟡 Medium     40
+🟡 Medium     41
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      60
+🏆 TOTAL      61
 ```
 
 <!-- STATS_END -->
@@ -186,6 +186,7 @@ I want to recognize **patterns**.
 | 890 | [Lemonade Change](./890-lemonade-change) | [Python](./890-lemonade-change/lemonade-change.py) | 🟢 Easy |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
+| 1460 | [Number Of Substrings Containing All Three Characters](./1460-number-of-substrings-containing-all-three-characters) | [Python](./1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) | 🟡 Medium |
 | 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | [Python](./1538-maximum-points-you-can-obtain-from-cards/maximum-points-you-can-obtain-from-cards.py) | 🟡 Medium |
 | 2047 | [Find A Peak Element Ii](./2047-find-a-peak-element-ii) | [Python](./2047-find-a-peak-element-ii/find-a-peak-element-ii.py) | 🟡 Medium |
 | 2488 | [Divide Intervals Into Minimum Number Of Groups](./2488-divide-intervals-into-minimum-number-of-groups) | [Python](./2488-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.py) | 🟡 Medium |
