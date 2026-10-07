@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **16** |
-| 🟡 Medium | **43** |
+| 🟡 Medium | **44** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **64** |
+| **🏆 Total** | **65** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       16
-🟡 Medium     43
+🟡 Medium     44
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      64
+🏆 TOTAL      65
 ```
 
 <!-- STATS_END -->
@@ -187,6 +187,7 @@ I want to recognize **patterns**.
 | 890 | [Lemonade Change](./890-lemonade-change) | [Python](./890-lemonade-change/lemonade-change.py) | 🟢 Easy |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 | 966 | [Binary Subarrays With Sum](./966-binary-subarrays-with-sum) | [Python](./966-binary-subarrays-with-sum/binary-subarrays-with-sum.py) | 🟡 Medium |
+| 1036 | [Rotting Oranges](./1036-rotting-oranges) | [Python](./1036-rotting-oranges/rotting-oranges.py) | 🟡 Medium |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
 | 1073 | [Number Of Enclaves](./1073-number-of-enclaves) | [Python](./1073-number-of-enclaves/number-of-enclaves.py) | 🟡 Medium |
 | 1460 | [Number Of Substrings Containing All Three Characters](./1460-number-of-substrings-containing-all-three-characters) | [Python](./1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) | 🟡 Medium |
