@@ -50,19 +50,19 @@ This isn't just a collection of answers.
 |:---:|---:|
 | 🟢 Easy | **16** |
 | 🟡 Medium | **46** |
-| 🔴 Hard | **5** |
+| 🔴 Hard | **6** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **67** |
+| **🏆 Total** | **68** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       16
 🟡 Medium     46
-🔴 Hard       5
+🔴 Hard       6
 ⚪ Unknown    0
 
-🏆 TOTAL      67
+🏆 TOTAL      68
 ```
 
 <!-- STATS_END -->
@@ -188,6 +188,7 @@ I want to recognize **patterns**.
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
 | 940 | [Fruit Into Baskets](./940-fruit-into-baskets) | [Python](./940-fruit-into-baskets/fruit-into-baskets.py) | 🟡 Medium |
 | 966 | [Binary Subarrays With Sum](./966-binary-subarrays-with-sum) | [Python](./966-binary-subarrays-with-sum/binary-subarrays-with-sum.py) | 🟡 Medium |
+| 1034 | [Subarrays With K Different Integers](./1034-subarrays-with-k-different-integers) | [Python](./1034-subarrays-with-k-different-integers/subarrays-with-k-different-integers.py) | 🔴 Hard |
 | 1036 | [Rotting Oranges](./1036-rotting-oranges) | [Python](./1036-rotting-oranges/rotting-oranges.py) | 🟡 Medium |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
 | 1073 | [Number Of Enclaves](./1073-number-of-enclaves) | [Python](./1073-number-of-enclaves/number-of-enclaves.py) | 🟡 Medium |
