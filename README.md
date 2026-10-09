@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **16** |
-| 🟡 Medium | **44** |
+| 🟡 Medium | **45** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **65** |
+| **🏆 Total** | **66** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       16
-🟡 Medium     44
+🟡 Medium     45
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      65
+🏆 TOTAL      66
 ```
 
 <!-- STATS_END -->
@@ -186,6 +186,7 @@ I want to recognize **patterns**.
 | 784 | [Insert Into A Binary Search Tree](./784-insert-into-a-binary-search-tree) | [Python](./784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) | 🟡 Medium |
 | 890 | [Lemonade Change](./890-lemonade-change) | [Python](./890-lemonade-change/lemonade-change.py) | 🟢 Easy |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list) | [Python](./908-middle-of-the-linked-list/middle-of-the-linked-list.py) | 🟢 Easy |
+| 940 | [Fruit Into Baskets](./940-fruit-into-baskets) | [Python](./940-fruit-into-baskets/fruit-into-baskets.py) | 🟡 Medium |
 | 966 | [Binary Subarrays With Sum](./966-binary-subarrays-with-sum) | [Python](./966-binary-subarrays-with-sum/binary-subarrays-with-sum.py) | 🟡 Medium |
 | 1036 | [Rotting Oranges](./1036-rotting-oranges) | [Python](./1036-rotting-oranges/rotting-oranges.py) | 🟡 Medium |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
