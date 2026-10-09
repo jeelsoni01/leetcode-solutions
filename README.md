@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **16** |
-| 🟡 Medium | **45** |
+| 🟡 Medium | **46** |
 | 🔴 Hard | **5** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **66** |
+| **🏆 Total** | **67** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       16
-🟡 Medium     45
+🟡 Medium     46
 🔴 Hard       5
 ⚪ Unknown    0
 
-🏆 TOTAL      66
+🏆 TOTAL      67
 ```
 
 <!-- STATS_END -->
@@ -191,6 +191,7 @@ I want to recognize **patterns**.
 | 1036 | [Rotting Oranges](./1036-rotting-oranges) | [Python](./1036-rotting-oranges/rotting-oranges.py) | 🟡 Medium |
 | 1046 | [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii) | [Python](./1046-max-consecutive-ones-iii/max-consecutive-ones-iii.py) | 🟡 Medium |
 | 1073 | [Number Of Enclaves](./1073-number-of-enclaves) | [Python](./1073-number-of-enclaves/number-of-enclaves.py) | 🟡 Medium |
+| 1370 | [Count Number Of Nice Subarrays](./1370-count-number-of-nice-subarrays) | [Python](./1370-count-number-of-nice-subarrays/count-number-of-nice-subarrays.py) | 🟡 Medium |
 | 1460 | [Number Of Substrings Containing All Three Characters](./1460-number-of-substrings-containing-all-three-characters) | [Python](./1460-number-of-substrings-containing-all-three-characters/number-of-substrings-containing-all-three-characters.py) | 🟡 Medium |
 | 1538 | [Maximum Points You Can Obtain From Cards](./1538-maximum-points-you-can-obtain-from-cards) | [Python](./1538-maximum-points-you-can-obtain-from-cards/maximum-points-you-can-obtain-from-cards.py) | 🟡 Medium |
 | 2047 | [Find A Peak Element Ii](./2047-find-a-peak-element-ii) | [Python](./2047-find-a-peak-element-ii/find-a-peak-element-ii.py) | 🟡 Medium |
