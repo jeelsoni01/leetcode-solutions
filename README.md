@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **18** |
+| 🟢 Easy | **19** |
 | 🟡 Medium | **46** |
 | 🔴 Hard | **6** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **70** |
+| **🏆 Total** | **71** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       18
+🟢 Easy       19
 🟡 Medium     46
 🔴 Hard       6
 ⚪ Unknown    0
 
-🏆 TOTAL      70
+🏆 TOTAL      71
 ```
 
 <!-- STATS_END -->
@@ -134,6 +134,7 @@ I want to recognize **patterns**.
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) | [Python](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) | 🟡 Medium |
 | 4 | [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | [Python](./4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) | 🔴 Hard |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) | 🟡 Medium |
+| 20 | [Valid Parentheses](./20-valid-parentheses) | [Python](./20-valid-parentheses/valid-parentheses.py) | 🟢 Easy |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) | 🟢 Easy |
 | 25 | [Reverse Nodes In K Group](./25-reverse-nodes-in-k-group) | [Python](./25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py) | 🔴 Hard |
 | 26 | [Remove Duplicates From Sorted Array](./26-remove-duplicates-from-sorted-array) | [C++](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp) | 🟢 Easy |
