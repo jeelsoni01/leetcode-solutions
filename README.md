@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **16** |
+| 🟢 Easy | **17** |
 | 🟡 Medium | **46** |
 | 🔴 Hard | **6** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **68** |
+| **🏆 Total** | **69** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       16
+🟢 Easy       17
 🟡 Medium     46
 🔴 Hard       6
 ⚪ Unknown    0
 
-🏆 TOTAL      68
+🏆 TOTAL      69
 ```
 
 <!-- STATS_END -->
@@ -167,6 +167,7 @@ I want to recognize **patterns**.
 | 199 | [Binary Tree Right Side View](./199-binary-tree-right-side-view) | [Python](./199-binary-tree-right-side-view/binary-tree-right-side-view.py) | 🟡 Medium |
 | 200 | [Number Of Islands](./200-number-of-islands) | [Python](./200-number-of-islands/number-of-islands.py) | 🟡 Medium |
 | 206 | [Reverse Linked List](./206-reverse-linked-list) | [Python](./206-reverse-linked-list/reverse-linked-list.py) | 🟢 Easy |
+| 225 | [Implement Stack Using Queues](./225-implement-stack-using-queues) | [Python](./225-implement-stack-using-queues/implement-stack-using-queues.py) | 🟢 Easy |
 | 229 | [Majority Element Ii](./229-majority-element-ii) | [Python](./229-majority-element-ii/majority-element-ii.py) | 🟡 Medium |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](./235-lowest-common-ancestor-of-a-binary-search-tree) | [Python](./235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) | 🟡 Medium |
 | 237 | [Delete Node In A Linked List](./237-delete-node-in-a-linked-list) | [Python](./237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) | 🟡 Medium |
