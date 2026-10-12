@@ -48,21 +48,21 @@ This isn't just a collection of answers.
 
 | Difficulty | Problems |
 |:---:|---:|
-| 🟢 Easy | **19** |
+| 🟢 Easy | **20** |
 | 🟡 Medium | **46** |
 | 🔴 Hard | **6** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **71** |
+| **🏆 Total** | **72** |
 
 ### 📈 Progress
 
 ```text
-🟢 Easy       19
+🟢 Easy       20
 🟡 Medium     46
 🔴 Hard       6
 ⚪ Unknown    0
 
-🏆 TOTAL      71
+🏆 TOTAL      72
 ```
 
 <!-- STATS_END -->
@@ -181,6 +181,7 @@ I want to recognize **patterns**.
 | 435 | [Non Overlapping Intervals](./435-non-overlapping-intervals) | [Python](./435-non-overlapping-intervals/non-overlapping-intervals.py) | 🟡 Medium |
 | 455 | [Assign Cookies](./455-assign-cookies) | [Python](./455-assign-cookies/assign-cookies.py) | 🟢 Easy |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
+| 496 | [Next Greater Element I](./496-next-greater-element-i) | [Python](./496-next-greater-element-i/next-greater-element-i.py) | 🟢 Easy |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 543 | [Diameter Of Binary Tree](./543-diameter-of-binary-tree) | [Python](./543-diameter-of-binary-tree/diameter-of-binary-tree.py) | 🟢 Easy |
 | 547 | [Number Of Provinces](./547-number-of-provinces) | [Python](./547-number-of-provinces/number-of-provinces.py) | 🟡 Medium |
