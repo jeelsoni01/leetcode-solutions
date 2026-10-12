@@ -49,20 +49,20 @@ This isn't just a collection of answers.
 | Difficulty | Problems |
 |:---:|---:|
 | 🟢 Easy | **20** |
-| 🟡 Medium | **46** |
+| 🟡 Medium | **47** |
 | 🔴 Hard | **6** |
 | ⚪ Unknown | **0** |
-| **🏆 Total** | **72** |
+| **🏆 Total** | **73** |
 
 ### 📈 Progress
 
 ```text
 🟢 Easy       20
-🟡 Medium     46
+🟡 Medium     47
 🔴 Hard       6
 ⚪ Unknown    0
 
-🏆 TOTAL      72
+🏆 TOTAL      73
 ```
 
 <!-- STATS_END -->
@@ -182,6 +182,7 @@ I want to recognize **patterns**.
 | 455 | [Assign Cookies](./455-assign-cookies) | [Python](./455-assign-cookies/assign-cookies.py) | 🟢 Easy |
 | 493 | [Reverse Pairs](./493-reverse-pairs) | [Python](./493-reverse-pairs/reverse-pairs.py) | 🔴 Hard |
 | 496 | [Next Greater Element I](./496-next-greater-element-i) | [Python](./496-next-greater-element-i/next-greater-element-i.py) | 🟢 Easy |
+| 503 | [Next Greater Element Ii](./503-next-greater-element-ii) | [Python](./503-next-greater-element-ii/next-greater-element-ii.py) | 🟡 Medium |
 | 540 | [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array) | [Python](./540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.py) | 🟡 Medium |
 | 543 | [Diameter Of Binary Tree](./543-diameter-of-binary-tree) | [Python](./543-diameter-of-binary-tree/diameter-of-binary-tree.py) | 🟢 Easy |
 | 547 | [Number Of Provinces](./547-number-of-provinces) | [Python](./547-number-of-provinces/number-of-provinces.py) | 🟡 Medium |
